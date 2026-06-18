@@ -6,7 +6,7 @@
 
 </div>
 
-I build **firmware and embedded systems** — OpenBMC on AST2700, Yocto/BitBake recipes, coreboot, and low-level board bring-up. Off the clock I ship **full-stack apps** (Nuxt / TypeScript) and automate things with n8n and Cloudflare.
+I build **firmware and embedded systems** — OpenBMC on AST2700, Yocto/BitBake recipes, coreboot, and low-level board bring-up. Off the clock I ship **full-stack apps** (Nuxt / TypeScript), automate things with n8n and Cloudflare, and keep my entire dev environment reproducible with **chezmoi**.
 
 ### 🛠️ Tech Stack
 
@@ -31,6 +31,11 @@ I build **firmware and embedded systems** — OpenBMC on AST2700, Yocto/BitBake 
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+**Tooling**
+
+![chezmoi](https://img.shields.io/badge/chezmoi-2EA9DF?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### 📊 GitHub Stats
