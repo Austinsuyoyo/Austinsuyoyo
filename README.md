@@ -68,10 +68,10 @@ struct engineer austin = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Austinsuyoyo&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=C2CB12&icon_color=C2CB12"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austinsuyoyo&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide_border=true&title_color=C2CB12"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Austinsuyoyo&show_icons=true&theme=tokyonight&hide_border=true&title_color=C2CB12&icon_color=C2CB12"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austinsuyoyo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=C2CB12"/>
 
-<img width="495" src="https://streak-stats.demolab.com/?user=Austinsuyoyo&theme=tokyonight&hide_border=true&ring=C2CB12&fire=C2CB12&currStreakLabel=C2CB12"/>
+<img width="495" src="https://streak-stats.demolab.com/?user=Austinsuyoyo&theme=tokyonight&hide_border=true&ring=C2CB12&fire=C2CB12&currStreakLabel=C2CB12&currStreakNum=C2CB12&sideNums=C2CB12&dates=8B949E"/>
 
 </div>
 
