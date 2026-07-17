@@ -42,7 +42,7 @@ I build **firmware and embedded systems** — OpenBMC on AST2700, Yocto/BitBake 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Austinsuyoyo&show_icons=true&theme=tokyonight&hide_border=true&title_color=C2CB12&icon_color=C2CB12"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austinsuyoyo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=C2CB12"/>
+<img height="160" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
+<img height="160" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repo"/>
 
 </div>
